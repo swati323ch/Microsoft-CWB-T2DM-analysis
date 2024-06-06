@@ -41,6 +41,6 @@ The overall accuracy is given bellow-
 
 ## Conclusion
 This project utilizes K-Means clustering and machine learning to group individuals by health profiles, providing actionable insights for targeted interventions. Identification of distinct clusters with specific risk factors facilitates the development of personalized healthcare strategies. Enhancing data-driven approaches enriches our understanding of population health dynamics, leading to improved public health outcomes and advancements in personalized medicine.
-link of Kaggle notebook - https://www.kaggle.com/code/swatisubramanyam/notebook0bbec39c6c/edit
+
 
 
