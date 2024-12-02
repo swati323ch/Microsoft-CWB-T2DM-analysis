@@ -4,9 +4,6 @@ Required libraries - matplotlib,seaborn,pandas
 ### Bivariate Plots
 The function plot_bivariate in the code generates bivariate plots for the specific features. This is useful for visualizing the relationship between categorical features and a target variable.
 ![img 1](https://github.com/swati323ch/Microsoft-CWB-T2DM-analysis/assets/133630051/b9e6e6ef-e9b5-4cea-afd7-45037869a9c9)
-###  Correlation Matrix Heatmap
-A correlation matrix is a table showing correlation coefficients between variables. Each cell in the table shows the correlation between two variables. This is useful for identifying relationships between numerical features and understanding how variables in your dataset interact with each other.
-![Corelation](https://github.com/swati323ch/Microsoft-CWB-T2DM-analysis/assets/133630051/1fb018d0-f04f-4e00-9601-28e919390672)
 ###  Box Plots of Features
  Box plots are useful for visualizing the distribution, central tendency, and variability of data. They also highlight outliers within each feature.
 
